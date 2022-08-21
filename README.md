@@ -1,8 +1,11 @@
-### Hi 👋
+# Hi 👋 Welcome to you!
+I love computer technology, and I firmly believe that technology can make the world a better place.
+
+## About My Github
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inokoe&show_icons=true&theme=radical&count_private=true)
 
-### Used
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=inokoe">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=inokoe&count_private=true&layout=compact">
  
 
 <!--
