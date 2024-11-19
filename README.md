@@ -1,5 +1,5 @@
 # Hi 👋 Welcome to you!
-I love computer technology, and I firmly believe that technology can make the world a better place.
+这位客官，请问要来点什么？🍵 ｜ ☕️
 
 ## About My Github
 
